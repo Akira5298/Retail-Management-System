@@ -1,4 +1,4 @@
-TokyoEra Management System
+#TokyoEra Management System
 
 Coursework Type
 - Retail management system built with Java 21 and JavaFX.
