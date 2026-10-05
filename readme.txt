@@ -1,4 +1,4 @@
-# TokyoEra Management System
+# Lamina Control Panel
 
 Coursework Type
 - Retail management system built with Java 21 and JavaFX.
