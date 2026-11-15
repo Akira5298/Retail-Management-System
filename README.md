@@ -121,12 +121,6 @@ From the project root:
 
 > These are **demonstration credentials**, not passwords suitable for a deployed application. Change or remove default credentials before any real-world deployment.
 
-## Exploring the application
-
-**Customer workflow:** Sign in as `user`, browse and filter clothing products, open a product's details, select options, add items to the cart, apply a coupon if available, then check out. After checkout, review your order history or export the PDF receipt.
-
-**Admin workflow:** Sign in as `admin` to review dashboard statistics, manage products and stock, inspect orders and custom orders, generate filtered reports, export CSV data, and configure storefront or coupon settings.
-
 ## Project structure
 
 ```text
@@ -193,9 +187,3 @@ Tests cover business logic, models, validation, integration flows, and report ge
 - **Visual assets:** Product images, background videos, and music are stored under `pics/`.
 
 Any third-party platform resources remain subject to their respective licenses and terms.
-
-## Project scope
-
-TokyoEra was developed as **coursework** to demonstrate end-to-end desktop application development: user interfaces, authentication, persistent data, transaction workflows, inventory management, business reporting, and automated testing.
-
-It is a demonstration system rather than a production-ready payment or commerce platform. The seeded accounts and example pricing are provided for testing and exploration.
